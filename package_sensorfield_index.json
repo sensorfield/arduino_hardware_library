@@ -1,52 +1,36 @@
 {
-  "packages": [
+  "packages":
+  [
     {
       "name": "Sensorfield",
       "maintainer": "Sensorfield Inc",
       "websiteURL": "https://sensorfield.com",
       "email": "support@sensorfield.com",
-      "platforms": [
+      "platforms":
+      [
         {
-          "name": "Sensorfield SAMD Boards (dependency: Arduino SAMD Boards 1.8.1)",
+          "name": "Sensorfield SAMD Boards",
           "architecture": "samd",
-          "version": "0.0.1",
+          "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/kalauffenburger/Sensorfield/sensorfield_samd21/sensorfield_samd21_r0_0_1.zip",
+          "url": "https://github.com/kalauffenburger/Sensorfield/blob/main/sensorfield_samd21_r0_0_1.zip",
           "archiveFileName": "sensorfield_samd21_r0_0_1.zip",
-          "checksum": "SHA-256:349651eff8891302ca958e3a2bee50831dca7c73d3c8646b949e00b5acfde98a",
-          "size": "1696179",
+          "checksum": "SHA-256:3acfaef3af0251fe6fba1ef518c2932c46ee7d7fe5373418ab299b4d3fb834f8",
+          "size": "17694",
           "boards": [
             { "name": "Sensorfield SAMD21" }
           ],
-          "toolsDependencies": [
+          "toolsDependencies":
+          [
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.9.0-arduino"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
             }
           ]
         }
-      ]
+      ],
+      "tools": [ ]
     }
   ]
 }
