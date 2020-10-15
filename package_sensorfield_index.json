@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd21_r1_0_1.zip",
           "archiveFileName": "sensorfield_samd21_r0_0_1.zip",
-          "checksum": "SHA-256:c62451173b44a24e57be328b2fac890bbfbd1b35ae37647a71c751f94d914e10",
-          "size": "1515911",
+          "checksum": "SHA-256:619542b00173dcba001d9e78c65fa002eda7140c1f4e9a9fb1b3d0e0018b7760",
+          "size": "1515900",
           "boards": [
             { "name": "Sensorfield SAMD21" }
           ],
