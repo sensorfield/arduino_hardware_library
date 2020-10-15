@@ -9,7 +9,7 @@
       "platforms":
       [
         {
-          "name": "Sensorfield SAMD Boards (dependency: Arduino SAMD Boards 1.8.1)",
+          "name": "Sensorfield SAMD Boards (dependency: Arduino SAMD Boards 1.8.8)",
           "architecture": "samd",
           "version": "1.0.1",
           "category": "Contributed",
