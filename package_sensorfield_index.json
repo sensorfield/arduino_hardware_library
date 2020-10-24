@@ -13,8 +13,8 @@
           "architecture": "samd",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd21_r1_0_1.zip",
-          "archiveFileName": "sensorfield_samd21_r0_0_1.zip",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd21_r1_0_2.zip",
+          "archiveFileName": "sensorfield_samd21_r1_0_2.zip",
           "checksum": "SHA-256:86efa711d03f9e5ae52e6cceaa3db0e06a0617b4e9a688fd3f6856df75531935",
           "size": "1515900",
           "boards": [
