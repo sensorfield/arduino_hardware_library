@@ -11,12 +11,12 @@
         {
           "name": "Sensorfield SAMD Boards",
           "architecture": "samd",
-          "version": "1.1.1",
+          "version": "1.1.2",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51_r1_1_1.zip",
-          "archiveFileName": "sensorfield_samd51_r1_1_1.zip",
-          "checksum": "SHA-256:b931ff36acbb37ecad9e1400e1934654bc5d844bc5d47b7dfc6d00458f275285",
-          "size": "1522874",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51_r1_1_2.zip",
+          "archiveFileName": "sensorfield_samd51_r1_1_2.zip",
+          "checksum": "SHA-256:abc8ccfbd755815fbd624ae0ec963f524f5f96f80388f71a4f821ebf1c1ae18f",
+          "size": "1225318",
           "boards": [
             { "name": "Sensorfield SAMD51" }
           ],
