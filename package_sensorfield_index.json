@@ -47,7 +47,45 @@
               "name": "CMSIS-Atmel",
               "version": "1.2.0"
             }
-          ]
+          ],
+          "tools":
+          {
+            {
+              "name": "ihexcrc32.py",
+              "version": "1.1.0",
+              "systems":
+              [
+                {
+                  "host": "arm-linux-gnueabihf",
+                  "archiveFileName": linux_ihexcrc32_v1.1.0.tgz",
+                  "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/linux_ihexcrc32_v1.1.0.tar.gz",
+                  "checksum": "SHA-256:dec2b86d1d23521bf93e7d631b5abfbac25518cd6eba83e1a98fb86f6881d3e0",
+                  "size": "5451"
+                },
+                {
+                  "host": "x86_64-pc-linux-gnu",
+                  "archiveFileName": linux_ihexcrc32_v1.1.0.tgz",
+                  "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/linux_ihexcrc32_v1.1.0.tar.gz",
+                  "checksum": "SHA-256:dec2b86d1d23521bf93e7d631b5abfbac25518cd6eba83e1a98fb86f6881d3e0",
+                  "size": "5451"
+                },
+                {
+                  "host": "i686-pc-linux-gnu",
+                  "archiveFileName": linux_ihexcrc32_v1.1.0.tgz",
+                  "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/linux_ihexcrc32_v1.1.0.tar.gz",
+                  "checksum": "SHA-256:dec2b86d1d23521bf93e7d631b5abfbac25518cd6eba83e1a98fb86f6881d3e0",
+                  "size": "5451"
+                },
+                {
+                  "host": "i686-mingw32",
+                  "archiveFileName": windows_ihexcrc32_v1.1.0.zip",
+                  "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/windows_ihexcrc32_v1.1.0.zip",
+                  "checksum": "SHA-256:a0d0630c9f6843ce52ca6c036ef4bc7ff11447d7ccb515e2c5019d209da599bb",
+                  "size": "5594"
+                }
+              ]
+            }
+          }
         }
       ]
     }
