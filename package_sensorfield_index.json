@@ -9,7 +9,7 @@
       "tools":
       [
         {
-          "name": "ihexcrc32.py",
+          "name": "ihexcrc32",
           "version": "1.1.0",
           "systems":
           [
@@ -53,8 +53,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.7.tar.bz2",
           "archiveFileName": "sensorfield_samd51-1.1.7.tar.bz2",
-          "checksum": "SHA-256:355e1fe721d23a98708cce3d63c56a7ef3ab9a676a8d9af8f2a3b46d9916c2dd",
-          "size": "887154",
+          "checksum": "SHA-256:75d30a7fbe1b2777e0b1bae313af5a43c6c423fab1136fb75183a0680c6ae3ba",
+          "size": "886842",
           "boards": [
             { "name": "Sensorfield SAMD51" }
           ],
