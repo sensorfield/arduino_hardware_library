@@ -17,29 +17,29 @@
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
-              "checksum": "SHA-256:74e5ad40572cdcfe470448fdadbf477b74d2a73d7a32b7a8d884971dd0cfb9d4",
-              "size": "5456"
+              "checksum": "SHA-256:ddcec365cc1f2e733b37358dfe36500b190c1d5d6613f49df26af8db57934c42",
+              "size": "5461"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
-              "checksum": "SHA-256:74e5ad40572cdcfe470448fdadbf477b74d2a73d7a32b7a8d884971dd0cfb9d4",
-              "size": "5456"
+              "checksum": "SHA-256:ddcec365cc1f2e733b37358dfe36500b190c1d5d6613f49df26af8db57934c42",
+              "size": "5461"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
-              "checksum": "SHA-256:74e5ad40572cdcfe470448fdadbf477b74d2a73d7a32b7a8d884971dd0cfb9d4",
-              "size": "5456"
+              "checksum": "SHA-256:ddcec365cc1f2e733b37358dfe36500b190c1d5d6613f49df26af8db57934c42",
+              "size": "5461"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
-              "checksum": "SHA-256:74e5ad40572cdcfe470448fdadbf477b74d2a73d7a32b7a8d884971dd0cfb9d4",
-              "size": "5456"
+              "checksum": "SHA-256:ddcec365cc1f2e733b37358dfe36500b190c1d5d6613f49df26af8db57934c42",
+              "size": "5461"
             }
           ]
         },
