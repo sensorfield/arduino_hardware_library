@@ -9,6 +9,41 @@
       "tools":
       [
         {
+          "name": "ihexcrc32",
+          "version": "1.1.0",
+          "systems":
+          [
+            {
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
+              "checksum": "SHA-256:6a7bb746a7d800e74bab42b3c40c6bc1cfaf0171eb05c2757b181462ff87ca52",
+              "size": "5452"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
+              "checksum": "SHA-256:6a7bb746a7d800e74bab42b3c40c6bc1cfaf0171eb05c2757b181462ff87ca52",
+              "size": "5452"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
+              "checksum": "SHA-256:6a7bb746a7d800e74bab42b3c40c6bc1cfaf0171eb05c2757b181462ff87ca52",
+              "size": "5452"
+            },
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "ihexcrc32-1.1.0.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.1.0.tar.gz",
+              "checksum": "SHA-256:6a7bb746a7d800e74bab42b3c40c6bc1cfaf0171eb05c2757b181462ff87ca52",
+              "size": "5452"
+            }
+          ]
+        },
+        {
           "name": "openocd",
           "version": "0.10.0-dev-01340-ga0e8edc4e",
           "systems":
@@ -17,29 +52,29 @@
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:d7bd2a078f88912aebf72ed9f61d5e3f2e3a70f4b552127407d8ad667642d2e9",
-              "size": "5833910"
+              "checksum": "SHA-256:452a3e8942663031918feb809d197683716e2b83d697c18dff4312910e296096",
+              "size": "5827477"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:d7bd2a078f88912aebf72ed9f61d5e3f2e3a70f4b552127407d8ad667642d2e9",
-              "size": "5833910"
+              "checksum": "SHA-256:452a3e8942663031918feb809d197683716e2b83d697c18dff4312910e296096",
+              "size": "5827477"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:d7bd2a078f88912aebf72ed9f61d5e3f2e3a70f4b552127407d8ad667642d2e9",
-              "size": "5833910"
+              "checksum": "SHA-256:452a3e8942663031918feb809d197683716e2b83d697c18dff4312910e296096",
+              "size": "5827477"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:d7bd2a078f88912aebf72ed9f61d5e3f2e3a70f4b552127407d8ad667642d2e9",
-              "size": "5833910"
+              "checksum": "SHA-256:452a3e8942663031918feb809d197683716e2b83d697c18dff4312910e296096",
+              "size": "5827477"
             }
           ]
         }
@@ -53,8 +88,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.7.tar.bz2",
           "archiveFileName": "sensorfield_samd51-1.1.7.tar.bz2",
-          "checksum": "SHA-256:85ccd142a71b319f12c8996e1fe357638ed6d007d028164db2bc4c8ff276b55b",
-          "size": "887293",
+          "checksum": "SHA-256:953c93f80c1d1370867f6e6ff31c573529f90cd200a6b219ec3c4555340f6f2d",
+          "size": "887025",
           "boards": [
             { "name": "Sensorfield SAMD51" }
           ],
@@ -89,6 +124,11 @@
               "packager": "Sensorfield",
               "name": "openocd",
               "version": "0.10.0-dev-01340-ga0e8edc4e"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "ihexcrc32",
+              "version": "1.1.0"
             }
           ]
         }
