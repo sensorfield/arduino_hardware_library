@@ -17,29 +17,29 @@
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:089cab97cc45e1433ef682e47c3800ba33591feedb3d4231e962a8b83d0561e5",
-              "size": "5832951"
+              "checksum": "SHA-256:b45ebb4e65ec79cf7e8f0ef3a40a50c3432c656e6b4e702361ace4dba44fe3e7",
+              "size": "5832992"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:089cab97cc45e1433ef682e47c3800ba33591feedb3d4231e962a8b83d0561e5",
-              "size": "5832951"
+              "checksum": "SHA-256:b45ebb4e65ec79cf7e8f0ef3a40a50c3432c656e6b4e702361ace4dba44fe3e7",
+              "size": "5832992"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:089cab97cc45e1433ef682e47c3800ba33591feedb3d4231e962a8b83d0561e5",
-              "size": "5832951"
+              "checksum": "SHA-256:b45ebb4e65ec79cf7e8f0ef3a40a50c3432c656e6b4e702361ace4dba44fe3e7",
+              "size": "5832992"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:089cab97cc45e1433ef682e47c3800ba33591feedb3d4231e962a8b83d0561e5",
-              "size": "5832951"
+              "checksum": "SHA-256:b45ebb4e65ec79cf7e8f0ef3a40a50c3432c656e6b4e702361ace4dba44fe3e7",
+              "size": "5832992"
             }
           ]
         }
