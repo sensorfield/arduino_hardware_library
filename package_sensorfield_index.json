@@ -84,12 +84,12 @@
         {
           "name": "Sensorfield SAMD51 Boards (Arduino 1.8.0 dependency)",
           "architecture": "samd",
-          "version": "1.1.9",
+          "version": "1.1.10",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.9.tar.bz2",
-          "archiveFileName": "sensorfield_samd51-1.1.9.tar.bz2",
-          "checksum": "SHA-256:9cedaddc779775abea001f9f336a303dda0353745312095deee77c81048161ba",
-          "size": "889417",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.10.tar.bz2",
+          "archiveFileName": "sensorfield_samd51-1.1.10.tar.bz2",
+          "checksum": "SHA-256:304dc01862bf68c4f342b4a2fc52d0dede99a7405de228ec457e0dd0db1f76de",
+          "size": "889317",
           "boards": [
             { "name": "Sensorfield SAMD51" }
           ],
