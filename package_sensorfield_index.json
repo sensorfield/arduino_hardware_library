@@ -10,36 +10,43 @@
       [
         {
           "name": "openocd",
-          "version": "0.10.0-dev-01340-ga0e8edc4e",
+          "version": "0.10.0-13-263deb380",
           "systems":
           [
             {
-              "host": "arm-linux-gnueabihf",
-              "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:228693e84b5986eab5752edfe2d9f6623ef1a620be0dba0c8831dd2a77bd3d64",
-              "size": "5833233"
-            },
-            {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:228693e84b5986eab5752edfe2d9f6623ef1a620be0dba0c8831dd2a77bd3d64",
-              "size": "5833233"
+              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x64.tgz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x64.tgz",
+              "checksum": "SHA-256:ccd8123207bf4b1bf2b923de43f2886b94efe52ddc055be3b45b277967eb081b",
+              "size": "3438722"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:228693e84b5986eab5752edfe2d9f6623ef1a620be0dba0c8831dd2a77bd3d64",
-              "size": "5833233"
+              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x32.tgz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x32.tgz",
+              "checksum": "SHA-256:1336788ca836441eaf2c03b55a05b6e36fe08b8654950952e293e0e400324818",
+              "size": "3513587"
             },
             {
               "host": "i686-mingw32",
-              "archiveFileName": "openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-dev-01340-ga0e8edc4e.tar.gz",
-              "checksum": "SHA-256:228693e84b5986eab5752edfe2d9f6623ef1a620be0dba0c8831dd2a77bd3d64",
-              "size": "5833233"
+              "archiveFileName": "openocd-0.10.0-13-263deb380_win32-x32.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_win32-x32.zip",
+              "checksum": "SHA-256:b553e856ebc948cadd6f303eb4dc858ed4f1bcb5178c87d5d9969fed850edcf9",
+              "size": "3126090"
+            },
+            {
+              "host": "x86_64-mingw64",
+              "archiveFileName": "openocd-0.10.0-13-263deb380_win32-x64.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_win32-x64.zip",
+              "checksum": "SHA-256:04795d66f3f677149a7b5bebd06662b9bad0a89ab52be1cc70a6ee56d621d5a8",
+              "size": "3116965"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "openocd-0.10.0-13-263deb380_darwin-x64.tgz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_darwin-x64.tgz",
+              "checksum": "SHA-256:a7831f1ae56af51a8d49aff736b5ea74897e71ea4a0b9c668f6523ed9b63f065",
+              "size": "2829546"
             }
           ]
         },
@@ -49,21 +56,7 @@
           "systems":
           [
             {
-              "host": "arm-linux-gnueabihf",
-              "archiveFileName": "bossac-1.9.1-15-ga39bb14.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/bossac-1.9.1-15-ga39bb14.tar.gz",
-              "checksum": "SHA-256:d34c395e06c664c1329f51efcd6fb9f25ee419b006c293ba8dc09804d49792c2",
-              "size": "538535"
-            },
-            {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "bossac-1.9.1-15-ga39bb14.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/bossac-1.9.1-15-ga39bb14.tar.gz",
-              "checksum": "SHA-256:d34c395e06c664c1329f51efcd6fb9f25ee419b006c293ba8dc09804d49792c2",
-              "size": "538535"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
               "archiveFileName": "bossac-1.9.1-15-ga39bb14.tar.gz",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/bossac-1.9.1-15-ga39bb14.tar.gz",
               "checksum": "SHA-256:d34c395e06c664c1329f51efcd6fb9f25ee419b006c293ba8dc09804d49792c2",
@@ -84,12 +77,12 @@
         {
           "name": "Sensorfield SAMD51 Boards (Arduino 1.8.0 dependency)",
           "architecture": "samd",
-          "version": "1.1.10",
+          "version": "1.1.11",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.10.tar.bz2",
-          "archiveFileName": "sensorfield_samd51-1.1.10.tar.bz2",
-          "checksum": "SHA-256:304dc01862bf68c4f342b4a2fc52d0dede99a7405de228ec457e0dd0db1f76de",
-          "size": "889317",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.11.tar.bz2",
+          "archiveFileName": "sensorfield_samd51-1.1.11.tar.bz2",
+          "checksum": "SHA-256:a7229487bb70866ecf19bded8667acaad6ffaaee0f781bd067a857dd84930992",
+          "size": "888056",
           "boards": [
             { "name": "Sensorfield SAMD51" }
           ],
@@ -123,7 +116,7 @@
             {
               "packager": "Sensorfield",
               "name": "openocd",
-              "version": "0.10.0-dev-01340-ga0e8edc4e"
+              "version": "0.10.0-13-263deb380"
             }
           ]
         }
