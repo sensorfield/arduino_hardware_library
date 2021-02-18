@@ -15,15 +15,15 @@
           [
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x64.tgz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x64.tgz",
+              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x64.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x64.tar.gz",
               "checksum": "SHA-256:ccd8123207bf4b1bf2b923de43f2886b94efe52ddc055be3b45b277967eb081b",
               "size": "3438722"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x32.tgz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x32.tgz",
+              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x32.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x32.tar.gz",
               "checksum": "SHA-256:1336788ca836441eaf2c03b55a05b6e36fe08b8654950952e293e0e400324818",
               "size": "3513587"
             },
@@ -43,8 +43,8 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_darwin-x64.tgz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_darwin-x64.tgz",
+              "archiveFileName": "openocd-0.10.0-13-263deb380_darwin-x64.tar.gz",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_darwin-x64.tar.gz",
               "checksum": "SHA-256:a7831f1ae56af51a8d49aff736b5ea74897e71ea4a0b9c668f6523ed9b63f065",
               "size": "2829546"
             }
