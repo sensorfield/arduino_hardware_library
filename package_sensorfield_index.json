@@ -81,17 +81,17 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.11.tar.bz2",
           "archiveFileName": "sensorfield_samd51-1.1.11.tar.bz2",
-          "checksum": "SHA-256:f8eb02587df0ed4d59782f5c6f1f0d7ef833fedaaf70695d4bb211de5d3c96c5",
-          "size": "888921",
+          "checksum": "SHA-256:673393b7241250e7d742e18fec3831074c47e24b4da0fb7794a06a08312db820",
+          "size": "889008",
           "boards": [
             { "name": "Sensorfield SAMD51" }
           ],
           "toolsDependencies":
           [
             {
-              "packager": "adafruit",
+              "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "9-2019q4"
+              "version": "7-2017q4"
             },
             {
               "packager": "Sensorfield",
