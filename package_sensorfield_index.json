@@ -75,7 +75,7 @@
       "platforms":
       [
         {
-          "name": "Sensorfield SAMD51 Boards (Adafruit 1.6.3 dependency)",
+          "name": "Sensorfield SAMD51 Boards (dependent on Arduino SAMD Boards 1.8.11)",
           "architecture": "samd",
           "version": "1.1.11",
           "category": "Contributed",
