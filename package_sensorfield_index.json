@@ -81,10 +81,11 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.12.tar.bz2",
           "archiveFileName": "sensorfield_samd51-1.1.12.tar.bz2",
-          "checksum": "SHA-256:3f4334369ac56c4e7a8b51c7e5cdb06551c5add0b228f7388d6b4601a7f241e3",
-          "size": "888825",
+          "checksum": "SHA-256:31bd4a2a95f50e272d5dbdaba6f44bcc16c3ae595bdcf5ccae2ac57bb4bb1e94",
+          "size": "888866",
           "boards": [
-            { "name": "Sensorfield SAMD51" }
+            { "name": "Sensorfield SAMD51",
+            { "name": "Sensorfield SAMD51 I2C Bootloader" }
           ],
           "toolsDependencies":
           [
