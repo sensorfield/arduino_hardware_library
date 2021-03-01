@@ -81,8 +81,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd51-1.1.12.tar.bz2",
           "archiveFileName": "sensorfield_samd51-1.1.12.tar.bz2",
-          "checksum": "SHA-256:cedb6e27e74b015ad51c1910b8adcb8245788f0adaeef259572267a1f4efcf28",
-          "size": "888916",
+          "checksum": "SHA-256:713faf238475414341efa279993b626e06ba8ce0ee39b462648b3d606c8fd5d4",
+          "size": "889000",
           "boards": [
             {
               "name": "Sensorfield SAMD51"
