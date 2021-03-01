@@ -84,9 +84,11 @@
           "checksum": "SHA-256:31bd4a2a95f50e272d5dbdaba6f44bcc16c3ae595bdcf5ccae2ac57bb4bb1e94",
           "size": "888866",
           "boards": [
-            { "name": "Sensorfield SAMD51"
+            {
+              "name": "Sensorfield SAMD51"
             },
-            { "name": "Sensorfield SAMD51 I2C Bootloader"
+            {
+              "name": "Sensorfield SAMD51 I2C Bootloader"
             }
           ],
           "toolsDependencies":
