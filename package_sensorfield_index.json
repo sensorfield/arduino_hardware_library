@@ -123,8 +123,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.0.0.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.0.0.tar.bz2",
-          "checksum": "SHA-256:433e9301865f645112f6ea3b165fe51ad722fcb259f517f21285a8c5c1494be5",
-          "size": "900204",
+          "checksum": "SHA-256:c51682a4f3eec17a9140d18cc5eea7251b2b88b9e0469ac605ccb1f68219f62f",
+          "size": "900207",
           "boards": [
             {
               "name": "Sensorfield SAMD21 OpenOCD"
