@@ -10,43 +10,43 @@
       [
         {
           "name": "openocd",
-          "version": "0.10.0-13-263deb380",
+          "version": "v0.11.0-1",
           "systems":
           [
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x64.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x64.tar.gz",
-              "checksum": "SHA-256:ccd8123207bf4b1bf2b923de43f2886b94efe52ddc055be3b45b277967eb081b",
-              "size": "3438722"
+              "archiveFileName": "xpack-openocd-0.11.0-1-linux-x64.tar.gz",
+              "url": "https://xpack.github.io/blog/2021/03/15/openocd-v0-11-0-1-released/xpack-openocd-0.11.0-1-linux-x64.tar.gz",
+              "checksum": "SHA-256:5972fe70a274f054503dd519b68d3909b83f017b5b8dd2b59e84b3b72c9bc3e1",
+              "size": "3863984"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_linux-x32.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_linux-x32.tar.gz",
-              "checksum": "SHA-256:1336788ca836441eaf2c03b55a05b6e36fe08b8654950952e293e0e400324818",
-              "size": "3513587"
+              "archiveFileName": "xpack-openocd-0.11.0-1-linux-ia32.tar.gz",
+              "url": "https://xpack.github.io/blog/2021/03/15/openocd-v0-11-0-1-released/xpack-openocd-0.11.0-1-linux-ia32.tar.gz",
+              "checksum": "SHA-256:fb38cc36c31eccbfcb824684596fb16dde91f9c9a42a954d9c26e678cc1a5fc1",
+              "size": "3934753"
             },
             {
               "host": "i686-mingw32",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_win32-x32.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_win32-x32.zip",
-              "checksum": "SHA-256:b553e856ebc948cadd6f303eb4dc858ed4f1bcb5178c87d5d9969fed850edcf9",
-              "size": "3126090"
+              "archiveFileName": "xpack-openocd-0.11.0-1-win32-ia32.zip",
+              "url": "https://xpack.github.io/blog/2021/03/15/openocd-v0-11-0-1-released/xpack-openocd-0.11.0-1-win32-ia32.zip",
+              "checksum": "SHA-256:b556754ee621962d41f89b229115ecf5e067b6ae76e91e210d7f53d657769296",
+              "size": "3499898"
             },
             {
               "host": "x86_64-mingw64",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_win32-x64.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_win32-x64.zip",
-              "checksum": "SHA-256:04795d66f3f677149a7b5bebd06662b9bad0a89ab52be1cc70a6ee56d621d5a8",
-              "size": "3116965"
+              "archiveFileName": "xpack-openocd-0.11.0-1-win32-x64.zip",
+              "url": "https://xpack.github.io/blog/2021/03/15/openocd-v0-11-0-1-released/xpack-openocd-0.11.0-1-win32-x64.zip",
+              "checksum": "SHA-256:ec37f535265ce93953a874b10d07e8578f9814c206d8bce6a241ba7016297e4f",
+              "size": "3500174"
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "openocd-0.10.0-13-263deb380_darwin-x64.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/openocd-0.10.0-13-263deb380_darwin-x64.tar.gz",
-              "checksum": "SHA-256:a7831f1ae56af51a8d49aff736b5ea74897e71ea4a0b9c668f6523ed9b63f065",
-              "size": "2829546"
+              "archiveFileName": "xpack-openocd-0.11.0-1-darwin-x64.tar.gz",
+              "url": "https://xpack.github.io/blog/2021/03/15/openocd-v0-11-0-1-released/xpack-openocd-0.11.0-1-darwin-x64.tar.gz",
+              "checksum": "SHA-256:3e3719fd059d87f3433f1f6d8e37b8582e87ae6a168287eb32a85dbc0f2e1708",
+              "size": "3046743"
             }
           ]
         },
