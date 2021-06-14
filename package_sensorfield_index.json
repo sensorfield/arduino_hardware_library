@@ -119,12 +119,12 @@
         {
           "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
           "architecture": "samd",
-          "version": "2.0.0",
+          "version": "2.0.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.0.0.tar.bz2",
-          "archiveFileName": "sensorfield_samd-2.0.0.tar.bz2",
-          "checksum": "SHA-256:12a2877c4c2d4ab1025f1749d4705624ebb73fa2361fb0407db5c5270c7f2050",
-          "size": "900673",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.0.1.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.0.1.tar.bz2",
+          "checksum": "SHA-256:31fb167f5cab3c629a7235983c523dd99c1ef979196ad2884e567cf4c48952d3",
+          "size": "900221",
           "boards": [
             {
               "name": "Sensorfield SAMD21 OpenOCD"
