@@ -99,8 +99,8 @@
             },
             {
               "host": "x86_64-mingw64",
-              "archivefilename": "xpack-openocd-0.11.0-1-win32-x64.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/xpack-openocd-0.11.0-1-win32-x64.zip",
+              "archivefilename": "ihexcrc32-1.0.0.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/ihexcrc32-1.0.0.zip",
               "checksum": "sha-256:2aa562c14a8c3c9d79b6e06d69c5e683f4f424fbab957100d3b5d9cb300ceffc",
               "size": "5639"
             },
