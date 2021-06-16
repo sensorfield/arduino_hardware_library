@@ -73,43 +73,43 @@
         },
         {
           "name": "ihexcrc32",
-          "version": "1.0.0",
+          "version": "1.1.1",
           "systems":
           [
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "ihexcrc32-1.0.0.tar.bz2",
+              "archiveFileName": "ihexcrc32-1.1.1.tar.bz2",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.0.0.tar.bz2",
-              "checksum": "SHA-256:fe34960058efaeed661c78e7374c3dd40a63f65f6cac70ca4e62da6fd76eb4f0",
-              "size": "4862"
+              "checksum": "SHA-256:ccf79fe71278fd160ca32b9cbecb7deaae1d7368534c93de1ad6ac0893061a97",
+              "size": "4887"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "archiveFileName": "ihexcrc32-1.0.0.tar.bz2",
+              "archiveFileName": "ihexcrc32-1.1.1.tar.bz2",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.0.0.tar.bz2",
-              "checksum": "SHA-256:fe34960058efaeed661c78e7374c3dd40a63f65f6cac70ca4e62da6fd76eb4f0",
-              "size": "4862"
+              "checksum": "SHA-256:ccf79fe71278fd160ca32b9cbecb7deaae1d7368534c93de1ad6ac0893061a97",
+              "size": "4887"
             },
             {
               "host": "i686-mingw32",
-              "archiveFileName": "ihexcrc32-1.0.0.zip",
+              "archiveFileName": "ihexcrc32-1.1.1.zip",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.0.0.zip",
-              "checksum": "SHA-256:2aa562c14a8c3c9d79b6e06d69c5e683f4f424fbab957100d3b5d9cb300ceffc",
-              "size": "5639"
+              "checksum": "SHA-256:511b481fbec9050533a82187155c2bf4ce99b0ecda410913bc5f7938271d3837",
+              "size": "5662"
             },
             {
               "host": "x86_64-mingw64",
-              "archivefilename": "ihexcrc32-1.0.0.zip",
+              "archivefilename": "ihexcrc32-1.1.1.zip",
               "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/ihexcrc32-1.0.0.zip",
-              "checksum": "sha-256:2aa562c14a8c3c9d79b6e06d69c5e683f4f424fbab957100d3b5d9cb300ceffc",
-              "size": "5639"
+              "checksum": "sha-256:511b481fbec9050533a82187155c2bf4ce99b0ecda410913bc5f7938271d3837",
+              "size": "5662"
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "ihexcrc32-1.0.0.tar.bz2",
+              "archiveFileName": "ihexcrc32-1.1.1.tar.bz2",
               "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-1.0.0.tar.bz2",
-              "checksum": "SHA-256:fe34960058efaeed661c78e7374c3dd40a63f65f6cac70ca4e62da6fd76eb4f0",
-              "size": "4862"
+              "checksum": "SHA-256:ccf79fe71278fd160ca32b9cbecb7deaae1d7368534c93de1ad6ac0893061a97",
+              "size": "4887"
             }
           ]
         }
