@@ -115,43 +115,43 @@
         },
         {
           "name": "sensorflash",
-          "version": "1.1.0",
+          "version": "1.2.0",
           "systems":
           [
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "sensorflash-1.1.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.1.0.tar.bz2",
-              "checksum": "SHA-256:1cc0d4ff633fd802d15f34ebe1457d2e87da71876a5f64bfd6fad043b32fcc00",
-              "size": "17648"
+              "archiveFileName": "sensorflash-1.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.tar.bz2",
+              "checksum": "SHA-256:3cd381ebbf81c91d234e8bc07d0a740efd4736adc2bad7576a79ce8888806840",
+              "size": "17549"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "archiveFileName": "sensorflash-1.1.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.1.0.tar.bz2",
-              "checksum": "SHA-256:1cc0d4ff633fd802d15f34ebe1457d2e87da71876a5f64bfd6fad043b32fcc00",
-              "size": "17648"
+              "archiveFileName": "sensorflash-1.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.tar.bz2",
+              "checksum": "SHA-256:3cd381ebbf81c91d234e8bc07d0a740efd4736adc2bad7576a79ce8888806840",
+              "size": "17549"
             },
             {
               "host": "i686-mingw32",
-              "archiveFileName": "sensorflash-1.1.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.1.0.zip",
-              "checksum": "SHA-256:0e2b1f44ca658cf25c764f2575b6e103e788fa1f4a67ad87fb64fb844beaba6e",
-              "size": "18261"
+              "archiveFileName": "sensorflash-1.2.0.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.zip",
+              "checksum": "SHA-256:422f6fb3ab10fe0920fdb3f4790cd80e7fc968b7fde354dadbcc78e3fbc08d4c",
+              "size": "18199"
             },
             {
               "host": "x86_64-mingw64",
-              "archiveFileName": "sensorflash-1.1.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/sensorflash-1.1.0.zip",
-              "checksum": "sha-256:0e2b1f44ca658cf25c764f2575b6e103e788fa1f4a67ad87fb64fb844beaba6e",
-              "size": "18261"
+              "archiveFileName": "sensorflash-1.2.0.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/sensorflash-1.2.0.zip",
+              "checksum": "sha-256:422f6fb3ab10fe0920fdb3f4790cd80e7fc968b7fde354dadbcc78e3fbc08d4c",
+              "size": "18199"
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "sensorflash-1.1.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.1.0.tar.bz2",
-              "checksum": "SHA-256:1cc0d4ff633fd802d15f34ebe1457d2e87da71876a5f64bfd6fad043b32fcc00",
-              "size": "17648"
+              "archiveFileName": "sensorflash-1.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.tar.bz2",
+              "checksum": "SHA-256:3cd381ebbf81c91d234e8bc07d0a740efd4736adc2bad7576a79ce8888806840",
+              "size": "17549"
             }
           ]
         }
@@ -161,12 +161,12 @@
         {
           "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
           "architecture": "samd",
-          "version": "2.2.1",
+          "version": "2.3.0",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.2.1.tar.bz2",
-          "archiveFileName": "sensorfield_samd-2.2.1.tar.bz2",
-          "checksum": "SHA-256:b8b6d67238b08e3b9fc8094397b391bbccc1358e825394944ab1f2e0f48c927d",
-          "size": "906777",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.3.0.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.3.0.tar.bz2",
+          "checksum": "SHA-256:c6a94beceea94ef5cbca177eb85a6070f04d5f75dc3b685d689b0faac7efdc52",
+          "size": "906799",
           "boards": [
             {
               "name": "Sensorfield SAMD21 OpenOCD"
@@ -227,7 +227,7 @@
             {
               "packager": "Sensorfield",
               "name": "sensorflash",
-              "version": "1.1.0"
+              "version": "1.2.0"
             }
           ]
         }
