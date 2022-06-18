@@ -234,12 +234,12 @@
         {
           "name": "Sensorfield AVR Boards (Version I)",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_avr-1.0.1.tar.bz2",
-          "archiveFileName": "sensorfield_avr-1.0.1.tar.bz2",
-          "checksum": "SHA-256:33f75391fa502ec4cecf56a11d0fb14c77124724a65ec6ef8f11ee0d7dad85ec",
-          "size": "126866",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_avr-1.0.2.tar.bz2",
+          "archiveFileName": "sensorfield_avr-1.0.2.tar.bz2",
+          "checksum": "SHA-256:0b58c7ea740a59d317569e35fd53cf311b3b3c548ef0105d7e11ed3141e19a04",
+          "size": "126826",
           "boards": [
             {
               "name": "Sensorfield ATmega328P"
