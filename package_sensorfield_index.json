@@ -161,12 +161,12 @@
         {
           "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
           "architecture": "samd",
-          "version": "2.4.1",
+          "version": "2.4.2",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.4.1.tar.bz2",
-          "archiveFileName": "sensorfield_samd-2.4.1.tar.bz2",
-          "checksum": "SHA-256:2b3ee9ff77619b458590031ea6a20431c86d20f8c91dc45f14e22cce305c767c",
-          "size": "907748",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.4.2.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.4.2.tar.bz2",
+          "checksum": "SHA-256:1bb009d00884ced7cf5bc4faf755ee32dde345b1b8186f6380486d57c7f7003c",
+          "size": "907906",
           "boards": [
             {
               "name": "Sensorfield SAMD21 OpenOCD"
@@ -198,11 +198,6 @@
               "packager": "Sensorfield",
               "name": "bossac",
               "version": "1.9.1-15-ga39bb14"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.9.0-arduino"
             },
             {
               "packager": "arduino",
