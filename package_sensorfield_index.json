@@ -161,6 +161,79 @@
         {
           "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
           "architecture": "samd",
+          "version": "2.3.1",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.3.1.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.3.1.tar.bz2",
+          "checksum": "SHA-256:23f92f20d870b5ef1f9c23caff97c9f0e077d44721d35bcb0d70f189dbebc202",
+          "size": "906942",
+          "boards": [
+            {
+              "name": "Sensorfield SAMD21 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD21 UART"
+            },
+            {
+              "name": "Sensorfield SAMD21 I2C Bootloader"
+            },
+            {
+              "name": "Sensorfield SAMD51 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD51 UART"
+            },
+            {
+              "name": "Sensorfield SAMD51 I2C Bootloader"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "bossac",
+              "version": "1.9.1-15-ga39bb14"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "openocd",
+              "version": "v0.11.0-1"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "ihexcrc32",
+              "version": "2.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "sensorflash",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
+          "architecture": "samd",
           "version": "2.4.4",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.4.4.tar.bz2",
