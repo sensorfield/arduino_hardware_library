@@ -114,6 +114,48 @@
           ]
         },
         {
+          "name": "ihexcrc32",
+          "version": "3.0.0",
+          "systems":
+          [
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-3.0.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.tar.bz2",
+              "checksum": "SHA-256:a769b744ec1f3a06966acebf7c47c2ed72d0af690612cd822bff05398f40efa3",
+              "size": "5349"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-3.0.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.tar.bz2",
+              "checksum": "SHA-256:a769b744ec1f3a06966acebf7c47c2ed72d0af690612cd822bff05398f40efa3",
+              "size": "5349"
+            },
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "ihexcrc32-3.0.0.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.zip",
+              "checksum": "SHA-256:84bd7feb9ab17b01a45603f89f07a85f7b36e9632edc3769dcf3a9a8a2b34269",
+              "size": "6187"
+            },
+            {
+              "host": "x86_64-mingw64",
+              "archivefilename": "ihexcrc32-3.0.0.zip",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/ihexcrc32-3.0.0.zip",
+              "checksum": "sha-256:84bd7feb9ab17b01a45603f89f07a85f7b36e9632edc3769dcf3a9a8a2b34269",
+              "size": "6187"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "ihexcrc32-3.0.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.tar.bz2",
+              "checksum": "SHA-256:a769b744ec1f3a06966acebf7c47c2ed72d0af690612cd822bff05398f40efa3",
+              "size": "5349"
+            }
+          ]
+        },
+        {
           "name": "sensorflash",
           "version": "1.2.0",
           "systems":
@@ -359,6 +401,74 @@
               "packager": "Sensorfield",
               "name": "ihexcrc32",
               "version": "2.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "sensorflash",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
+          "architecture": "samd",
+          "version": "2.5.1",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.5.1.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.5.1.tar.bz2",
+          "checksum": "SHA-256:8bd28a1d4ca25dae517b3fbb3f64c08bdd6da3bd37a72bca85aa99f568370b25",
+          "size": "908244",
+          "boards": [
+            {
+              "name": "Sensorfield SAMD21 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD21 UART"
+            },
+            {
+              "name": "Sensorfield SAMD21 I2C Bootloader"
+            },
+            {
+              "name": "Sensorfield SAMD51 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD51 UART"
+            },
+            {
+              "name": "Sensorfield SAMD51 I2C Bootloader"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "bossac",
+              "version": "1.9.1-15-ga39bb14"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "openocd",
+              "version": "v0.11.0-1"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "ihexcrc32",
+              "version": "3.0.0"
             },
             {
               "packager": "Sensorfield",
