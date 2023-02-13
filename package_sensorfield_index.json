@@ -478,6 +478,74 @@
           ]
         },
         {
+          "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
+          "architecture": "samd",
+          "version": "2.6.0",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.6.0.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.6.0.tar.bz2",
+          "checksum": "SHA-256:34f28e8ca97a46160850a47a2220f2697a5bf4f61cf068c3b97eff5945e37bcc",
+          "size": "908808",
+          "boards": [
+            {
+              "name": "Sensorfield SAMD21 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD21 UART"
+            },
+            {
+              "name": "Sensorfield SAMD21 I2C Bootloader"
+            },
+            {
+              "name": "Sensorfield SAMD51 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD51 UART"
+            },
+            {
+              "name": "Sensorfield SAMD51 I2C Bootloader"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "bossac",
+              "version": "1.9.1-15-ga39bb14"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "openocd",
+              "version": "v0.11.0-1"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "ihexcrc32",
+              "version": "3.0.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "sensorflash",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
           "name": "Sensorfield AVR Boards (Version I)",
           "architecture": "avr",
           "version": "1.0.3",
