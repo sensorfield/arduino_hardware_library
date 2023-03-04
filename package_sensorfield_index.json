@@ -16,35 +16,35 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "xpack-openocd-0.11.0-1-linux-x64.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/xpack-openocd-0.11.0-1-linux-x64.tar.gz",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/xpack-openocd-0.11.0-1-linux-x64.tar.gz",
               "checksum": "SHA-256:5972fe70a274f054503dd519b68d3909b83f017b5b8dd2b59e84b3b72c9bc3e1",
               "size": "3863984"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "xpack-openocd-0.11.0-1-linux-ia32.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/xpack-openocd-0.11.0-1-linux-ia32.tar.gz",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/xpack-openocd-0.11.0-1-linux-ia32.tar.gz",
               "checksum": "SHA-256:fb38cc36c31eccbfcb824684596fb16dde91f9c9a42a954d9c26e678cc1a5fc1",
               "size": "3934753"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "xpack-openocd-0.11.0-1-win32-ia32.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/xpack-openocd-0.11.0-1-win32-ia32.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/xpack-openocd-0.11.0-1-win32-ia32.zip",
               "checksum": "SHA-256:b556754ee621962d41f89b229115ecf5e067b6ae76e91e210d7f53d657769296",
               "size": "3499898"
             },
             {
               "host": "x86_64-mingw64",
               "archiveFileName": "xpack-openocd-0.11.0-1-win32-x64.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/xpack-openocd-0.11.0-1-win32-x64.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/xpack-openocd-0.11.0-1-win32-x64.zip",
               "checksum": "SHA-256:ec37f535265ce93953a874b10d07e8578f9814c206d8bce6a241ba7016297e4f",
               "size": "3500174"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "xpack-openocd-0.11.0-1-darwin-x64.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/xpack-openocd-0.11.0-1-darwin-x64.tar.gz",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/xpack-openocd-0.11.0-1-darwin-x64.tar.gz",
               "checksum": "SHA-256:3e3719fd059d87f3433f1f6d8e37b8582e87ae6a168287eb32a85dbc0f2e1708",
               "size": "3046743"
             }
@@ -58,14 +58,14 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "bossac-1.9.1-15-ga39bb14.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/bossac-1.9.1-15-ga39bb14.tar.gz",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/bossac-1.9.1-15-ga39bb14.tar.gz",
               "checksum": "SHA-256:d34c395e06c664c1329f51efcd6fb9f25ee419b006c293ba8dc09804d49792c2",
               "size": "538535"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "bossac-1.9.1-15-ga39bb14.tar.gz",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/bossac-1.9.1-15-ga39bb14.tar.gz",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/bossac-1.9.1-15-ga39bb14.tar.gz",
               "checksum": "SHA-256:d34c395e06c664c1329f51efcd6fb9f25ee419b006c293ba8dc09804d49792c2",
               "size": "538535"
             }
@@ -79,35 +79,35 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "ihexcrc32-2.2.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-2.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-2.2.0.tar.bz2",
               "checksum": "SHA-256:8ef1102cb71b00436377e1e51b466c45bd6aff988e8260bf61025e7b65a50148",
               "size": "5240"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "ihexcrc32-2.2.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-2.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-2.2.0.tar.bz2",
               "checksum": "SHA-256:8ef1102cb71b00436377e1e51b466c45bd6aff988e8260bf61025e7b65a50148",
               "size": "5240"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "ihexcrc32-2.2.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-2.2.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-2.2.0.zip",
               "checksum": "SHA-256:e0f54d8b2c8519c5f39e8b0f0f7df35da2fc64af1d897c7a84c20825eec35475",
               "size": "6068"
             },
             {
               "host": "x86_64-mingw64",
               "archivefilename": "ihexcrc32-2.2.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/ihexcrc32-2.2.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-2.2.0.zip",
               "checksum": "sha-256:e0f54d8b2c8519c5f39e8b0f0f7df35da2fc64af1d897c7a84c20825eec35475",
               "size": "6068"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "ihexcrc32-2.2.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-2.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-2.2.0.tar.bz2",
               "checksum": "SHA-256:8ef1102cb71b00436377e1e51b466c45bd6aff988e8260bf61025e7b65a50148",
               "size": "5240"
             }
@@ -121,35 +121,35 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "ihexcrc32-3.0.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.0.0.tar.bz2",
               "checksum": "SHA-256:a769b744ec1f3a06966acebf7c47c2ed72d0af690612cd822bff05398f40efa3",
               "size": "5349"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "ihexcrc32-3.0.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.0.0.tar.bz2",
               "checksum": "SHA-256:a769b744ec1f3a06966acebf7c47c2ed72d0af690612cd822bff05398f40efa3",
               "size": "5349"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "ihexcrc32-3.0.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.0.0.zip",
               "checksum": "SHA-256:84bd7feb9ab17b01a45603f89f07a85f7b36e9632edc3769dcf3a9a8a2b34269",
               "size": "6187"
             },
             {
               "host": "x86_64-mingw64",
               "archivefilename": "ihexcrc32-3.0.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/ihexcrc32-3.0.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.0.0.zip",
               "checksum": "sha-256:84bd7feb9ab17b01a45603f89f07a85f7b36e9632edc3769dcf3a9a8a2b34269",
               "size": "6187"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "ihexcrc32-3.0.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/ihexcrc32-3.0.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.0.0.tar.bz2",
               "checksum": "SHA-256:a769b744ec1f3a06966acebf7c47c2ed72d0af690612cd822bff05398f40efa3",
               "size": "5349"
             }
@@ -163,35 +163,35 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "archiveFileName": "sensorflash-1.2.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorflash-1.2.0.tar.bz2",
               "checksum": "SHA-256:3cd381ebbf81c91d234e8bc07d0a740efd4736adc2bad7576a79ce8888806840",
               "size": "17549"
             },
             {
               "host": "i686-pc-linux-gnu",
               "archiveFileName": "sensorflash-1.2.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorflash-1.2.0.tar.bz2",
               "checksum": "SHA-256:3cd381ebbf81c91d234e8bc07d0a740efd4736adc2bad7576a79ce8888806840",
               "size": "17549"
             },
             {
               "host": "i686-mingw32",
               "archiveFileName": "sensorflash-1.2.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorflash-1.2.0.zip",
               "checksum": "SHA-256:422f6fb3ab10fe0920fdb3f4790cd80e7fc968b7fde354dadbcc78e3fbc08d4c",
               "size": "18199"
             },
             {
               "host": "x86_64-mingw64",
               "archiveFileName": "sensorflash-1.2.0.zip",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/sensorfield/main/sensorflash-1.2.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorflash-1.2.0.zip",
               "checksum": "sha-256:422f6fb3ab10fe0920fdb3f4790cd80e7fc968b7fde354dadbcc78e3fbc08d4c",
               "size": "18199"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "sensorflash-1.2.0.tar.bz2",
-              "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorflash-1.2.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorflash-1.2.0.tar.bz2",
               "checksum": "SHA-256:3cd381ebbf81c91d234e8bc07d0a740efd4736adc2bad7576a79ce8888806840",
               "size": "17549"
             }
@@ -205,7 +205,7 @@
           "architecture": "samd",
           "version": "2.3.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.3.1.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.3.1.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.3.1.tar.bz2",
           "checksum": "SHA-256:23f92f20d870b5ef1f9c23caff97c9f0e077d44721d35bcb0d70f189dbebc202",
           "size": "906942",
@@ -278,7 +278,7 @@
           "architecture": "samd",
           "version": "2.4.5",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.4.5.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.4.5.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.4.5.tar.bz2",
           "checksum": "SHA-256:2a6d8fff225c27a814eb617084eaa7670d01db97f01fc74dd32ddd276a9401ed",
           "size": "907954",
@@ -346,7 +346,7 @@
           "architecture": "samd",
           "version": "2.5.0",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.5.0.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.5.0.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.5.0.tar.bz2",
           "checksum": "SHA-256:1ea0ac614532103773841c399be08f83e123971d8cb9c18165ecf3526f852c89",
           "size": "908137",
@@ -414,7 +414,7 @@
           "architecture": "samd",
           "version": "2.5.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.5.1.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.5.1.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.5.1.tar.bz2",
           "checksum": "SHA-256:5e2bd22876f88f951cdb4528c1a612e3340fabbb5453ffc1c82d893502c399f3",
           "size": "908082",
@@ -482,7 +482,7 @@
           "architecture": "samd",
           "version": "2.6.0",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.6.0.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.6.0.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.6.0.tar.bz2",
           "checksum": "SHA-256:f4e982499f5187535dda9b70aea8a15889913fe95149a8dfac75e042cead871e",
           "size": "908553",
@@ -550,7 +550,7 @@
           "architecture": "samd",
           "version": "2.6.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_samd-2.6.1.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.6.1.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.6.1.tar.bz2",
           "checksum": "SHA-256:91887b5b7bd8f0b4252732aeceb353f89ea21251527709d6b30c55dd0ff6870a",
           "size": "908832",
@@ -618,7 +618,7 @@
           "architecture": "avr",
           "version": "1.0.4",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/kalauffenburger/Sensorfield/main/sensorfield_avr-1.0.4.tar.bz2",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_avr-1.0.4.tar.bz2",
           "archiveFileName": "sensorfield_avr-1.0.4.tar.bz2",
           "checksum": "SHA-256:18253c5d3f01bbd482e5cf0dc69b3a512555fdcd74d93d4f987138a2faa409c7",
           "size": "102981",
