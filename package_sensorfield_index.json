@@ -156,6 +156,48 @@
           ]
         },
         {
+          "name": "ihexcrc32",
+          "version": "3.1.0",
+          "systems":
+          [
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-3.1.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.0.tar.bz2",
+              "checksum": "SHA-256:dea2cdc099f109750c83cff3518faa80604e1056b36d45c2a75794d2a9bf4ff5",
+              "size": "5472"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-3.1.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.0.tar.bz2",
+              "checksum": "SHA-256:dea2cdc099f109750c83cff3518faa80604e1056b36d45c2a75794d2a9bf4ff5",
+              "size": "5472"
+            },
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "ihexcrc32-3.1.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.0.zip",
+              "checksum": "SHA-256:5ac9b6c803b752f7429f7efad898ba4a467d26a60f11c00f56d6137b6b0e0e5e",
+              "size": "6317"
+            },
+            {
+              "host": "x86_64-mingw64",
+              "archivefilename": "ihexcrc32-3.1.0.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.0.zip",
+              "checksum": "sha-256:5ac9b6c803b752f7429f7efad898ba4a467d26a60f11c00f56d6137b6b0e0e5e",
+              "size": "6317"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "ihexcrc32-3.1.0.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.0.tar.bz2",
+              "checksum": "SHA-256:dea2cdc099f109750c83cff3518faa80604e1056b36d45c2a75794d2a9bf4ff5",
+              "size": "5472"
+            }
+          ]
+        },
+        {
           "name": "sensorflash",
           "version": "1.2.0",
           "systems":
@@ -673,6 +715,74 @@
               "packager": "Sensorfield",
               "name": "ihexcrc32",
               "version": "3.0.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "sensorflash",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
+          "architecture": "samd",
+          "version": "2.6.5",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.6.5.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.6.5.tar.bz2",
+          "checksum": "SHA-256:8bb5c0b677ae2308af12a8d8206160fcae388f08d4d5d090cbd432a306e01863",
+          "size": "909049",
+          "boards": [
+            {
+              "name": "Sensorfield SAMD21 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD21 UART"
+            },
+            {
+              "name": "Sensorfield SAMD21 I2C Bootloader"
+            },
+            {
+              "name": "Sensorfield SAMD51 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD51 UART"
+            },
+            {
+              "name": "Sensorfield SAMD51 I2C Bootloader"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "bossac",
+              "version": "1.9.1-15-ga39bb14"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "openocd",
+              "version": "v0.11.0-1"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "ihexcrc32",
+              "version": "3.1.0"
             },
             {
               "packager": "Sensorfield",
