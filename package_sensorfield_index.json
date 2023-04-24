@@ -730,7 +730,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.6.5.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.6.5.tar.bz2",
-          "checksum": "SHA-256:5deba9e142870ff92ba1cb811558e9c58666205da4d93cae1e69fd9ac7bf0977",
+          "checksum": "SHA-256:8c30710dd14d79e741dbb811df12ef264ff60bac25b4024b35556703cced50e9",
           "size": "908866",
           "boards": [
             {
