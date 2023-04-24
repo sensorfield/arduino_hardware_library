@@ -730,8 +730,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.6.5.tar.bz2",
           "archiveFileName": "sensorfield_samd-2.6.5.tar.bz2",
-          "checksum": "SHA-256:8c30710dd14d79e741dbb811df12ef264ff60bac25b4024b35556703cced50e9",
-          "size": "908866",
+          "checksum": "SHA-256:0b984e7962278cc8b1a80edb88ee33f7b77b088cb7706a6a13c5991f5cf2f5f4",
+          "size": "908743",
           "boards": [
             {
               "name": "Sensorfield SAMD21 OpenOCD"
