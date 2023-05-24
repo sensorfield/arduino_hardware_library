@@ -157,43 +157,43 @@
         },
         {
           "name": "ihexcrc32",
-          "version": "3.1.1",
+          "version": "3.1.2",
           "systems":
           [
             {
               "host": "x86_64-pc-linux-gnu",
-              "archiveFileName": "ihexcrc32-3.1.1.tar.bz2",
-              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.1.tar.bz2",
-              "checksum": "SHA-256:ac5667733614864164b2e2da5b090f191d914117b4497b26ab8a378db981e09d",
-              "size": "5605"
+              "archiveFileName": "ihexcrc32-3.1.2.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.2.tar.bz2",
+              "checksum": "SHA-256:592b875786b5743731a2eca17c0f885bb3be6967de3ac561b43d4b75e0f56387",
+              "size": "5614"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "archiveFileName": "ihexcrc32-3.1.1.tar.bz2",
-              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.1.tar.bz2",
-              "checksum": "SHA-256:ac5667733614864164b2e2da5b090f191d914117b4497b26ab8a378db981e09d",
-              "size": "5605"
+              "archiveFileName": "ihexcrc32-3.1.2.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.2.tar.bz2",
+              "checksum": "SHA-256:592b875786b5743731a2eca17c0f885bb3be6967de3ac561b43d4b75e0f56387",
+              "size": "5614"
             },
             {
               "host": "i686-mingw32",
-              "archiveFileName": "ihexcrc32-3.1.1.zip",
-              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.1.zip",
-              "checksum": "SHA-256:39728a045c030330e613336743d59ed079731b2203697a0ab1d8cc589d9aa567",
-              "size": "6475"
+              "archiveFileName": "ihexcrc32-3.1.2.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.2.zip",
+              "checksum": "SHA-256:2c58f7940d2a82dadb1334402c29b526fb074a85799e3f26f283ad801b5f00aa",
+              "size": "6476"
             },
             {
               "host": "x86_64-mingw64",
-              "archivefilename": "ihexcrc32-3.1.1.zip",
-              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.1.zip",
-              "checksum": "sha-256:39728a045c030330e613336743d59ed079731b2203697a0ab1d8cc589d9aa567",
-              "size": "6475"
+              "archivefilename": "ihexcrc32-3.1.2.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.2.zip",
+              "checksum": "sha-256:2c58f7940d2a82dadb1334402c29b526fb074a85799e3f26f283ad801b5f00aa",
+              "size": "6476"
             },
             {
               "host": "x86_64-apple-darwin",
-              "archiveFileName": "ihexcrc32-3.1.1.tar.bz2",
-              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.1.tar.bz2",
-              "checksum": "SHA-256:ac5667733614864164b2e2da5b090f191d914117b4497b26ab8a378db981e09d",
-              "size": "5605"
+              "archiveFileName": "ihexcrc32-3.1.2.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.2.tar.bz2",
+              "checksum": "SHA-256:592b875786b5743731a2eca17c0f885bb3be6967de3ac561b43d4b75e0f56387",
+              "size": "5614"
             }
           ]
         },
@@ -726,12 +726,12 @@
         {
           "name": "Sensorfield SAMD Boards (dependent on Arduino SAMD Boards 1.8.11)",
           "architecture": "samd",
-          "version": "2.6.9",
+          "version": "2.7.0",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.6.9.tar.bz2",
-          "archiveFileName": "sensorfield_samd-2.6.9.tar.bz2",
-          "checksum": "SHA-256:578751be244584dfb9723643d37b0bab01528b6996d8d2611c0000e7225001b3",
-          "size": "909169",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-2.7.0.tar.bz2",
+          "archiveFileName": "sensorfield_samd-2.7.0.tar.bz2",
+          "checksum": "SHA-256:5782c9df09aed5411dfcdee398fa88488b51206e60a8f3a9686de46cf51098e4",
+          "size": "909402",
           "boards": [
             {
               "name": "Sensorfield SAMD21 OpenOCD"
@@ -770,7 +770,7 @@
             {
               "packager": "Sensorfield",
               "name": "ihexcrc32",
-              "version": "3.1.1"
+              "version": "3.1.2"
             },
             {
               "packager": "Sensorfield",
