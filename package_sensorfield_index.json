@@ -1228,6 +1228,62 @@
           ]
         },
         {
+          "name": "Sensorfield SAMD Boards v3",
+          "architecture": "samd",
+          "version": "3.0.0",
+          "category": "Contributed",
+          "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/sensorfield_samd-3.0.0.tar.bz2",
+          "archiveFileName": "sensorfield_samd-3.0.0.tar.bz2",
+          "checksum": "SHA-256:f51550168daf58cd0e2e3afd7ed088f2dde63dc43d63dc16397b0bab4e48f033",
+          "size": "681738",
+          "boards": [
+            {
+              "name": "Sensorfield SAMD21 OpenOCD"
+            },
+            {
+              "name": "Sensorfield SAMD21 I2C Bootloader"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "bossac",
+              "version": "1.9.1-15-ga39bb14"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "openocd",
+              "version": "v0.11.0-1"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "ihexcrc32",
+              "version": "3.1.2"
+            },
+            {
+              "packager": "Sensorfield",
+              "name": "sensorflash",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
           "name": "Sensorfield AVR Boards (Version I)",
           "architecture": "avr",
           "version": "1.0.4",
