@@ -198,6 +198,48 @@
           ]
         },
         {
+          "name": "ihexcrc32",
+          "version": "3.1.3",
+          "systems":
+          [
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-3.1.3.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.3.tar.bz2",
+              "checksum": "SHA-256:eb20fe03422c3e31284e6acb2b551e393943314fc1eb08d25a4cc0393cff233e",
+              "size": "5618"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "archiveFileName": "ihexcrc32-3.1.3.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.3.tar.bz2",
+              "checksum": "SHA-256:eb20fe03422c3e31284e6acb2b551e393943314fc1eb08d25a4cc0393cff233e",
+              "size": "5618"
+            },
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "ihexcrc32-3.1.3.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.3.zip",
+              "checksum": "SHA-256:748ac6ca9f9556b31f03e49fa9f6ffea51d8dc0583207ac80a12c2607283b13f",
+              "size": "6475"
+            },
+            {
+              "host": "x86_64-mingw64",
+              "archivefilename": "ihexcrc32-3.1.3.zip",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.3.zip",
+              "checksum": "sha-256:748ac6ca9f9556b31f03e49fa9f6ffea51d8dc0583207ac80a12c2607283b13f",
+              "size": "6475"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "archiveFileName": "ihexcrc32-3.1.3.tar.bz2",
+              "url": "https://raw.githubusercontent.com/sensorfield/arduino_hardware_library/main/ihexcrc32-3.1.3.tar.bz2",
+              "checksum": "SHA-256:eb20fe03422c3e31284e6acb2b551e393943314fc1eb08d25a4cc0393cff233e",
+              "size": "5618"
+            }
+          ]
+        },
+        {
           "name": "sensorflash",
           "version": "1.2.0",
           "systems":
@@ -1274,7 +1316,7 @@
             {
               "packager": "Sensorfield",
               "name": "ihexcrc32",
-              "version": "3.1.2"
+              "version": "3.1.3"
             },
             {
               "packager": "Sensorfield",
